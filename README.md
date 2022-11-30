@@ -19,11 +19,6 @@ Apply decision tree regression on to the dataframe and get the values of Mean sq
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
 Developed by: SYED MUHAMMED ZAHI
 RegisterNumber:  212221230114
-/*
-Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: Meenakshi M
-RegisterNumber: 212221230057
-
 import pandas as pd
 data=pd.read_csv("Salary.csv")
 data.head()
